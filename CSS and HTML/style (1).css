@@ -1,0 +1,68 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+form{
+	font-size: 16px;
+	background: #1E90FF;
+	max-width: 500px;
+	margin: 0 auto;
+	padding: 0 10px 10px 10px;
+	border-radius: 5px;
+	-webkit-border-radius: 50px;
+	-moz-border=border-radius: 50px;
+	border: 5px solid;
+	color: blue;
+	cursor: pointer;
+}
+h1{
+	color: #333;
+	text-align: center;
+}
+input, textarea{
+	width: 474px;
+	padding: 10px;
+}
+.enviar input{
+	background-color: #069;
+	height: 40px;
+	width: 500px;
+	font-weight: bold;
+	border-radius: 5px;
+	-webkit-border-radius: 50px;
+	-moz-border=border-radius: 50px;
+	border: 1px solid;
+	color: #FFF;
+	cursor: pointer;
+}
+.enviar input:hover{
+	background: blue;
+}
+textarea{
+	width: 476px;
+	height: 120px;
+	line-height: 20px;
+}
+p{
+	text-align: center;
+}
+.nome input{
+	border: 1px solid;
+	border-radius: 20px;
+	font-weight: bolder;
+}
+.email input{
+	border: 1px solid;
+	border-radius: 20px;
+	font-weight: normal;
+}
+.assunto input{
+	border: 1px solid;
+	border-radius: 20px;
+	font-weight: bold;
+}
+.mensagem textarea{
+	border: 1px solid;
+	border-radius: 20px;
+	font-weight: 700;
+}

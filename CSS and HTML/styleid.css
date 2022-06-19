@@ -1,0 +1,25 @@
+/* Documento CSS */
+#tdiv{
+	width: 100%;
+	height: 400px;
+	background: #CCCCCC
+	border-color: #FF00FF;
+}
+.ldiv{
+	width: 100%; /* largura definida em pixel ou porcentagem */
+	height: 50px; /* altura definida*/​
+	background-image:url(https://blog.centraldoevento.com.br/wp-content/uploads/2017/04/doces-para-festa-infantil-centraldoevento-16.jpg);​
+	border-bottom: 3px solid #000000; /* Coloca uma linha na parte inferior do topo, a espessura​ e tipo da cor são definidos*/​
+}
+.bdiv{
+	width: 100%;
+	height: 10px;
+	background-color: #FFFFFF;
+	border-bottom: 3px solid #000000;
+}
+#bcdiv{
+	width: 50px;
+	height: 100%;
+	background: #FFFFFF;
+	border-color: #FF00FF;
+}
